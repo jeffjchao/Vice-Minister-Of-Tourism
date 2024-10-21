@@ -1,0 +1,43 @@
+--Noodles
+Ramen
+Tsukemen
+Soba
+Udon
+Yakisoba
+--Meat
+A5 Wagyu
+Tonkatsu
+Karaage
+Hamburg
+Genghis Khan
+Sukiyaki
+Yakiniku
+Shabu shabu
+--Seafood
+Sushi
+Unagi
+Takoyaki
+Kakifly
+--Meals/Snacks/Misc.
+Tempura
+Kushiyaki
+Kushikatsu
+Gyoza
+Izakaya
+Okonomiyaki
+Omurice
+Curry
+Croquette
+Nabe
+Ekiben
+--Desserts
+Fluffy pancake
+Parfait
+Melon-pan
+Kakigoori
+Crepe
+Taiyaki
+Dorayaki
+Ice cream
+--Omake
+Szechuan Food and Giant Sesame Ball
